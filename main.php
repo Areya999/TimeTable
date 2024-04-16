@@ -21,57 +21,57 @@
     
     <tr>
         <td class="date1">Saturday</td>
-        <td><label class="custom-checkbox-label"><input type="checkbox" name="saturday_event_1"><span class="custom-checkbox"></span></label></td>
-        <td><label class="custom-checkbox-label"><input type="checkbox" name="saturday_event_1"><span class="custom-checkbox"></span></label></td>
-        <td><label class="custom-checkbox-label"><input type="checkbox" name="saturday_event_1"><span class="custom-checkbox"></span></label></td>
-        <td><label class="custom-checkbox-label"><input type="checkbox" name="saturday_event_1"><span class="custom-checkbox"></span></label></td>
+        <td><label><input type="checkbox" ><span class="custom-checkbox"></span></label></td>
+        <td><label><input type="checkbox" ><span class="custom-checkbox"></span></label></td>
+        <td><label><input type="checkbox" ><span class="custom-checkbox"></span></label></td>
+        <td><label><input type="checkbox" ><span class="custom-checkbox"></span></label></td>
         <td></td>
     </tr>
     <tr>
         <td>Sunday</td>
-        <td><label class="custom-checkbox-label"><input type="checkbox" name="sunday_event_1"><span class="custom-checkbox"></span></label></td>
-        <td><label class="custom-checkbox-label"><input type="checkbox" name="sunday_event_1"><span class="custom-checkbox"></span></label></td>
-        <td><label class="custom-checkbox-label"><input type="checkbox" name="sunday_event_1"><span class="custom-checkbox"></span></label></td>
-        <td><label class="custom-checkbox-label"><input type="checkbox" name="sunday_event_1"><span class="custom-checkbox"></span></label></td>
+        <td><label><input type="checkbox" ><span class="custom-checkbox"></span></label></td>
+        <td><label><input type="checkbox" ><span class="custom-checkbox"></span></label></td>
+        <td><label><input type="checkbox" ><span class="custom-checkbox"></span></label></td>
+        <td><label><input type="checkbox" ><span class="custom-checkbox"></span></label></td>
         <td></td>
     </tr>
         <td>Monday</td>
-        <td><label class="custom-checkbox-label"><input type="checkbox" name="monday_event_1"><span class="custom-checkbox"></span></label></td>
-        <td><label class="custom-checkbox-label"><input type="checkbox" name="monday_event_1"><span class="custom-checkbox"></span></label></td>
-        <td><label class="custom-checkbox-label"><input type="checkbox" name="monday_event_1"><span class="custom-checkbox"></span></label></td>
-        <td><label class="custom-checkbox-label"><input type="checkbox" name="monday_event_1"><span class="custom-checkbox"></span></label></td>
+        <td><label><input type="checkbox" ><span class="custom-checkbox"></span></label></td>
+        <td><label><input type="checkbox" ><span class="custom-checkbox"></span></label></td>
+        <td><label><input type="checkbox" ><span class="custom-checkbox"></span></label></td>
+        <td><label><input type="checkbox" ><span class="custom-checkbox"></span></label></td>
         <td></td>
     </tr>
     <tr>
         <td>Tuesday</td>
-        <td><label class="custom-checkbox-label"><input type="checkbox" name="tuesday_event_1"><span class="custom-checkbox"></span></label></td>
-        <td><label class="custom-checkbox-label"><input type="checkbox" name="tuesday_event_1"><span class="custom-checkbox"></span></label></td>
-        <td><label class="custom-checkbox-label"><input type="checkbox" name="tuesday_event_1"><span class="custom-checkbox"></span></label></td>
-        <td><label class="custom-checkbox-label"><input type="checkbox" name="tuesday_event_1"><span class="custom-checkbox"></span></label></td>
+        <td><label><input type="checkbox" ><span class="custom-checkbox"></span></label></td>
+        <td><label><input type="checkbox" ><span class="custom-checkbox"></span></label></td>
+        <td><label><input type="checkbox" ><span class="custom-checkbox"></span></label></td>
+        <td><label><input type="checkbox" ><span class="custom-checkbox"></span></label></td>
         <td></td>
     </tr>
     <tr>
         <td>Wednesday</td>
-        <td><label class="custom-checkbox-label"><input type="checkbox" name="wednesday_event_1"><span class="custom-checkbox"></span></label></td>
-        <td><label class="custom-checkbox-label"><input type="checkbox" name="wednesday_event_1"><span class="custom-checkbox"></span></label></td>
-        <td><label class="custom-checkbox-label"><input type="checkbox" name="wednesday_event_1"><span class="custom-checkbox"></span></label></td>
-        <td><label class="custom-checkbox-label"><input type="checkbox" name="wednesday_event_1"><span class="custom-checkbox"></span></label></td>
+        <td><label><input type="checkbox" ><span class="custom-checkbox"></span></label></td>
+        <td><label><input type="checkbox" ><span class="custom-checkbox"></span></label></td>
+        <td><label><input type="checkbox" ><span class="custom-checkbox"></span></label></td>
+        <td><label><input type="checkbox" ><span class="custom-checkbox"></span></label></td>
         <td></td>
     </tr>
     <tr>
         <td>Thursday</td>
-        <td><label class="custom-checkbox-label"><input type="checkbox" name="thursday_event_1"><span class="custom-checkbox"></span></label></td>
-        <td><label class="custom-checkbox-label"><input type="checkbox" name="thursday_event_1"><span class="custom-checkbox"></span></label></td>
-        <td><label class="custom-checkbox-label"><input type="checkbox" name="thursday_event_1"><span class="custom-checkbox"></span></label></td>
-        <td><label class="custom-checkbox-label"><input type="checkbox" name="thursday_event_1"><span class="custom-checkbox"></span></label></td>
+        <td><label><input type="checkbox" ><span class="custom-checkbox"></span></label></td>
+        <td><label><input type="checkbox" ><span class="custom-checkbox"></span></label></td>
+        <td><label><input type="checkbox" ><span class="custom-checkbox"></span></label></td>
+        <td><label><input type="checkbox" ><span class="custom-checkbox"></span></label></td>
         <td></td>
     </tr>
     <tr>
         <td>Friday</td>
-        <td><label class="custom-checkbox-label"><input type="checkbox" name="friday_event_1"><span class="custom-checkbox"></span></label></td>
-        <td><label class="custom-checkbox-label"><input type="checkbox" name="friday_event_1"><span class="custom-checkbox"></span></label></td>
-        <td><label class="custom-checkbox-label"><input type="checkbox" name="friday_event_1"><span class="custom-checkbox"></span></label></td>
-        <td><label class="custom-checkbox-label"><input type="checkbox" name="friday_event_1"><span class="custom-checkbox"></span></label></td>
+        <td><label><input type="checkbox"><span class="custom-checkbox"></span></label></td>
+        <td><label><input type="checkbox"><span class="custom-checkbox"></span></label></td>
+        <td><label><input type="checkbox"><span class="custom-checkbox"></span></label></td>
+        <td><label><input type="checkbox"><span class="custom-checkbox"></span></label></td>
         <td></td>
     </tr>
     <tr>
