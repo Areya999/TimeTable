@@ -1,0 +1,90 @@
+
+    /* Basic styling */
+    table {
+      width: 60%;
+      border-collapse: collapse;
+  }
+  h1{
+    text-align: center;
+  }
+  th, td {
+      border: 1px solid black;
+      padding: 5px;
+      text-align: center;
+  }
+  /* Hide the default checkbox */
+  input[type="checkbox"] {
+      display: none;
+  }
+  /* Style the custom checkbox */
+  .custom-checkbox-label {
+      display: block;
+      position: relative;
+      cursor: pointer;
+  }
+  .custom-checkbox {
+      display: inline-block;
+      width: 15px;
+      height: 15px;
+      background-color: white;
+      border: 1px solid black;
+  }
+  /* Style the custom checkbox when checked */
+  .custom-checkbox.checked {
+      background-color: green;
+  }
+  /* Style the custom checkbox */
+.custom-checkbox-label {
+  display: block;
+  position: relative;
+  cursor: pointer;
+}
+
+.custom-checkbox {
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  background-color: white;
+  border: 1px solid black;
+  position: relative;
+}
+
+/* Style the custom checkbox when checked */
+.custom-checkbox.checked {
+  background-color: green;
+}
+
+/* Style the checkmark inside the custom checkbox */
+/* Style the checkmark inside the custom checkbox */
+.custom-checkbox::after {
+  content: "";
+  position: absolute;
+  left: 0%;
+  width: 20px;
+  height: 20px;
+  font-size: 16px; /* Adjust font size for the checkmark symbol */
+  text-align: center;
+  line-height: 20px; /* Ensure vertical centering */
+  opacity: 0;
+}
+
+/* Show the checkmark when the custom checkbox is checked */
+.custom-checkbox.checked::after {
+  content: "\2714"; 
+  top:8%;
+  z-index: 9999;
+  opacity: 1;
+}
+.sidebar{
+ width:25%;
+ height: 500px;
+ border:1px solid black ;
+
+}
+.main-conatiner{
+ display: flex;
+ justify-content: center;
+ gap: 60px;
+
+}
+
