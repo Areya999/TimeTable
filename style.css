@@ -12,10 +12,10 @@
       padding: 5px;
       text-align: center;
   }
-  /* Hide the default checkbox */
-  input[type="checkbox"] {
+  /* Hide the default checkbox */ 
+   input[type="checkbox"] {
       display: none;
-  }
+  } 
   /* Style the custom checkbox */
   .custom-checkbox-label {
       display: block;

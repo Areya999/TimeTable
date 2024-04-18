@@ -7,6 +7,7 @@
 <title>Weekly Timetable</title>
 </head>
 <body>
+   <h1 id="date"></h1>
     <h1>Weekly Timetable</h1>
 <div class="main-conatiner">
 <table>
@@ -20,7 +21,22 @@
     </tr>
     
     <tr>
-        <td class="date1">Saturday</td>
+        <td class="date1">Saturday <input type="radio"  ></td>
+        <td><label><input class="row1" type="checkbox" ><span class="custom-checkbox"></span></label></td>
+        <td><label><input class="row1" type="checkbox" ><span class="custom-checkbox"></span></label></td>
+        <td><label><input class="row1" type="checkbox" ><span class="custom-checkbox"></span></label></td>
+        <td><label><input class="row1" type="checkbox" ><span class="custom-checkbox"></span></label></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Sunday<input  type="radio" ></td>
+        <td><label><input type="checkbox" ><span class="custom-checkbox"></span></label></td>
+        <td><label><input type="checkbox" ><span class="custom-checkbox"></span></label></td>
+        <td><label><input type="checkbox" ><span class="custom-checkbox"></span></label></td>
+        <td><label><input type="checkbox" ><span class="custom-checkbox"></span></label></td>
+        <td></td>
+    </tr>
+        <td>Monday<input type="radio" ></td>
         <td><label><input type="checkbox" ><span class="custom-checkbox"></span></label></td>
         <td><label><input type="checkbox" ><span class="custom-checkbox"></span></label></td>
         <td><label><input type="checkbox" ><span class="custom-checkbox"></span></label></td>
@@ -28,14 +44,7 @@
         <td></td>
     </tr>
     <tr>
-        <td>Sunday</td>
-        <td><label><input type="checkbox" ><span class="custom-checkbox"></span></label></td>
-        <td><label><input type="checkbox" ><span class="custom-checkbox"></span></label></td>
-        <td><label><input type="checkbox" ><span class="custom-checkbox"></span></label></td>
-        <td><label><input type="checkbox" ><span class="custom-checkbox"></span></label></td>
-        <td></td>
-    </tr>
-        <td>Monday</td>
+        <td>Tuesday<input  type="radio" ></td>
         <td><label><input type="checkbox" ><span class="custom-checkbox"></span></label></td>
         <td><label><input type="checkbox" ><span class="custom-checkbox"></span></label></td>
         <td><label><input type="checkbox" ><span class="custom-checkbox"></span></label></td>
@@ -43,7 +52,7 @@
         <td></td>
     </tr>
     <tr>
-        <td>Tuesday</td>
+        <td>Wednesday<input type="radio"></td>
         <td><label><input type="checkbox" ><span class="custom-checkbox"></span></label></td>
         <td><label><input type="checkbox" ><span class="custom-checkbox"></span></label></td>
         <td><label><input type="checkbox" ><span class="custom-checkbox"></span></label></td>
@@ -51,7 +60,7 @@
         <td></td>
     </tr>
     <tr>
-        <td>Wednesday</td>
+        <td>Thursday<input type="radio"></td>
         <td><label><input type="checkbox" ><span class="custom-checkbox"></span></label></td>
         <td><label><input type="checkbox" ><span class="custom-checkbox"></span></label></td>
         <td><label><input type="checkbox" ><span class="custom-checkbox"></span></label></td>
@@ -59,15 +68,7 @@
         <td></td>
     </tr>
     <tr>
-        <td>Thursday</td>
-        <td><label><input type="checkbox" ><span class="custom-checkbox"></span></label></td>
-        <td><label><input type="checkbox" ><span class="custom-checkbox"></span></label></td>
-        <td><label><input type="checkbox" ><span class="custom-checkbox"></span></label></td>
-        <td><label><input type="checkbox" ><span class="custom-checkbox"></span></label></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>Friday</td>
+        <td>Friday<input type="radio"></td>
         <td><label><input type="checkbox"><span class="custom-checkbox"></span></label></td>
         <td><label><input type="checkbox"><span class="custom-checkbox"></span></label></td>
         <td><label><input type="checkbox"><span class="custom-checkbox"></span></label></td>

@@ -1,4 +1,4 @@
-   var checkboxes = document.querySelectorAll('input[type="checkbox"]');
+   var checkboxes = document.querySelectorAll('.row1[type="checkbox"]');
    let insert1 = document.querySelector('#h1');
    let comp = [];
    let array=[];
@@ -17,4 +17,22 @@
            }
        });
    });
-
+   function updateClock() {
+      const now = new Date();
+      const hour = now.getHours();
+      const minute = now.getMinutes();
+      const second = now.getSeconds();
+      const formattedHour = String(hour).padStart(2, '0');
+      const formattedMinute = String(minute).padStart(2, '0');
+      const formattedSecond = String(second).padStart(2, '0');
+      const formattedTime = `${formattedHour}:${formattedMinute}:${formattedSecond}`;
+      let co =document.querySelector('#date');
+      co.innerHTML=`${formattedTime}`;
+    }
+    
+    setInterval(updateClock, 1000);
+    
+    updateClock();
+    
+    
+    
